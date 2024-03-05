@@ -5,7 +5,6 @@
 - (Telegram) @frola_an                                            
 
 
-![image](https://github.com/An-Frolova/An-Frolova/assets/162348963/e7195842-4f1d-4fc6-b99f-6154879a79b5)
 
   
 <!---
