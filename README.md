@@ -1,6 +1,6 @@
 
 - Hi, I’m Anna Frolova
-- I’m currently learning - Android development  
+- I’m - Android development  
 - (Email) an.frolova023@gmail.com
 - (Telegram) @frola_an                                            
 
